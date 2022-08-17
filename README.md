@@ -1,5 +1,5 @@
 
-<h1 align ="center">Hi,I'm Yeongwan Kim</h1>
+<h1 align ="center">Hi, I'm Yeongwan Kim</h1>
 <div align = "left" width = 50%>
 
 <p><img align="right" src="https://github.com/kimyeong96/kimyeong96/blob/main/animation_500_kxa883sd.gif" alt="kimyeong96" /></p>
